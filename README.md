@@ -1,16 +1,9 @@
 # restaurant
 
-A new Flutter project.
+Restaurant App
 
-## Getting Started
+--This app has 2 pages which are made for waiter and Cooker
 
-This project is a starting point for a Flutter application.
+--Waiter section allows users to make a menu for the restaurant and most importantly they can send that specefic food/drinks/dessert/fruit to the cooker section so that cooker will be aware of what to make for the customers
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+--Cooker section allows users to receive data from waiter section to see what customers want for dinner and they can approve the order ance it is finished
